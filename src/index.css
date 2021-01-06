@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(210, 234, 255);
+}
+
+input:focus{
+  outline: none;
+}
+button:focus{
+  outline: none;
 }
 
 code {

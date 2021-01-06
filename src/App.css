@@ -1,0 +1,48 @@
+.App{
+  text-align: center;
+}
+
+.Navbar{
+  width: 100vw;
+  background-color: white;
+  margin-top: 0;
+  padding: 1em;
+}
+
+input{
+  background-color: white;
+  border: 3.5px solid gray;
+  border-radius: 7px;
+  height: 2em;
+  font-weight: 600;
+  margin: 12px;
+  padding: 5px;
+}
+
+input:hover{
+  box-shadow: 0 0 1em white;
+}
+input:focus{
+  box-shadow: 0 0 1em white;
+}
+
+button{
+  background-color: white;
+  border: 3.5px solid gray;
+  border-radius: 7px;
+  padding: 0.5rem;
+  font-weight: 600;
+  padding: 12px;
+}
+button:hover {
+  background-color: #eeeeee;
+}
+p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+h2{
+  margin: 12px;
+}
