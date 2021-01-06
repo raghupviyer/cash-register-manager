@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cash-register-manager-app/static/css/main.b1dc8f79.chunk.css",
+    "main.js": "/cash-register-manager-app/static/js/main.bb5dc118.chunk.js",
+    "main.js.map": "/cash-register-manager-app/static/js/main.bb5dc118.chunk.js.map",
+    "runtime-main.js": "/cash-register-manager-app/static/js/runtime-main.4e640d39.js",
+    "runtime-main.js.map": "/cash-register-manager-app/static/js/runtime-main.4e640d39.js.map",
+    "static/js/2.4cbb0101.chunk.js": "/cash-register-manager-app/static/js/2.4cbb0101.chunk.js",
+    "static/js/2.4cbb0101.chunk.js.map": "/cash-register-manager-app/static/js/2.4cbb0101.chunk.js.map",
+    "index.html": "/cash-register-manager-app/index.html",
+    "static/css/main.b1dc8f79.chunk.css.map": "/cash-register-manager-app/static/css/main.b1dc8f79.chunk.css.map",
+    "static/js/2.4cbb0101.chunk.js.LICENSE.txt": "/cash-register-manager-app/static/js/2.4cbb0101.chunk.js.LICENSE.txt",
+    "static/media/1$.126a5f6c.png": "/cash-register-manager-app/static/media/1$.126a5f6c.png",
+    "static/media/10$.2e00e279.png": "/cash-register-manager-app/static/media/10$.2e00e279.png",
+    "static/media/100$.d5a14993.png": "/cash-register-manager-app/static/media/100$.d5a14993.png",
+    "static/media/20$.d8cca1be.png": "/cash-register-manager-app/static/media/20$.d8cca1be.png",
+    "static/media/2000$.f8683c3c.png": "/cash-register-manager-app/static/media/2000$.f8683c3c.png",
+    "static/media/5$.58225b71.png": "/cash-register-manager-app/static/media/5$.58225b71.png",
+    "static/media/500$.b45d1b74.png": "/cash-register-manager-app/static/media/500$.b45d1b74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e640d39.js",
+    "static/js/2.4cbb0101.chunk.js",
+    "static/css/main.b1dc8f79.chunk.css",
+    "static/js/main.bb5dc118.chunk.js"
+  ]
+}
